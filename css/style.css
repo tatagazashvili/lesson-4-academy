@@ -1,0 +1,139 @@
+.header {
+	margin-bottom: 76.9px;
+
+}
+
+/*geader styles*/
+.logo {
+	display: inline;
+	margin-right: 49.8px;
+	vertical-align: middle;
+}
+
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-right: 18px;
+}
+.nav-a {
+	font-size: 22px;
+	color: #3D58A6;
+}
+.nav-a1 {
+	color: #EE4036;
+}
+
+.conteiner {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.left-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right: 24px;
+	padding: 12.7px;
+}
+
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+}
+
+.article-text {
+	display: inline-block;
+	width: 355px;
+	height: 143.29px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+
+.article-img {
+    vertical-align: middle;
+    margin-right: 60.3px;
+}
+
+.title {
+	margin-top: 116.5px;
+	margin-bottom: 30.80px;
+
+}
+
+
+/*footer*/
+
+.divider {
+	width: 2px;
+	height: 26.67px;
+	margin-left: 30px;
+
+	border-color: : black;
+	display: inline-block;
+}
+
+/*contact styles*/
+.conteiner-contact {
+	height: 1263px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contact-b {
+	background-color: #E6E6E6;
+}
+
+.contact-left-block {
+	display: inline-block;
+}
+
+.cotact-right-block {
+	display: inline-block;
+}
+
+.title {
+	color: #3D58A6;
+	font-size: 20px;
+}
+
+.span1 {
+	color: #808080;
+	font-size: 16px;
+
+}
+
+.list2 {
+	color: #000000;
+	font-size: 16px;
+}
+.conteiner-news {
+	width: 1251px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cont-left-img {
+	display: inline;
+	vertical-align: middle;
+} 
+.cont-right-text {
+	display: inline;
+	vertical-align: middle;
+}
+
+/*fonnts*/
+
+p{
+	font-family: "BPG Classic Medium", sans-serif;
+
+}
+
+.nav-li {
+	font-family: 'BPG Mikheil Stefane';
+
+}
